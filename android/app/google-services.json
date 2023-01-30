@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "350122659374",
+    "project_id": "foodpanda-app-341ae",
+    "storage_bucket": "foodpanda-app-341ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350122659374:android:9cbf0c5b8a994d6a7619bf",
+        "android_client_info": {
+          "package_name": "com.theNativeGod.foodpanda_riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350122659374-m7m9gg57olp77a3ub80ingkrfaspmk2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1eVwTdzBCdkH3MzvhGiRelWAwE_01Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350122659374-m7m9gg57olp77a3ub80ingkrfaspmk2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350122659374:android:8bd2f27104039bcb7619bf",
+        "android_client_info": {
+          "package_name": "com.theNativeGod.foodpanda_sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350122659374-m7m9gg57olp77a3ub80ingkrfaspmk2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1eVwTdzBCdkH3MzvhGiRelWAwE_01Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350122659374-m7m9gg57olp77a3ub80ingkrfaspmk2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
